@@ -1,5 +1,5 @@
 {
-  "name": "g-finops-frontend",
+  "name": "router-outlet-problem",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -24,7 +24,6 @@
     "@angular/platform-browser-dynamic": "^18.1.2",
     "@angular/platform-server": "18.1.2",
     "@angular/router": "^18.1.2",
-    "@angular/ssr": "^18.1.2",
     "express": "^4.19.2",
     "@auth0/angular-jwt": "^5.2.0",
     "@coreui/angular": "^5.2.7",

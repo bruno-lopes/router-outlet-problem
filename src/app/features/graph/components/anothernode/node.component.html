@@ -1,0 +1,7 @@
+<p (click)="this.clickNode()">
+  child works!
+</p>
+<div *ngIf="this.node.data.selected">
+  <p>{{this.node.id}}</p>
+  <p>{{this.node.data.selected}}</p>
+</div>

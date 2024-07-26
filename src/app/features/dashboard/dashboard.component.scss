@@ -1,0 +1,7 @@
+// Fix for error in CoreUI
+.modal {
+  display: none !important;
+}
+.modal.show {
+  display: block !important;
+}
